@@ -1,18 +1,32 @@
 [
   {
     "name": "Beige Babydoll top",
-    "price": "LKR 7500"
+    "price": "LKR 7500",
+    "imageRes": "R.drawable.top1"
   },
   {
     "name": "Floral Dress",
-    "price": "LKR 8200"
+    "price": "LKR 8200",
+    "imageRes": "R.drawable.dress5"
   },
   {
     "name": "Floral Set",
-    "price": "LKR 8200"
+    "price": "LKR 8200",
+    "imageRes": "R.drawable.set1"
   },
   {
     "name": "Chiffon Ruffle Top",
-    "price": "LKR 6500"
+    "price": "LKR 6500",
+    "imageRes": "R.drawable.top3"
+  },
+   {
+    "name": "Beige Babydoll top",
+    "price": "LKR 7500",
+    "imageRes": "R.drawable.top1"
+  },
+  {
+    "name": "Floral Dress",
+    "price": "LKR 8200",
+    "imageRes": "R.drawable.dress5"
   }
 ]
